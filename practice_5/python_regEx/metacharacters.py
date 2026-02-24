@@ -1,0 +1,11 @@
+# [] - a set of chareacters - "[a-m]"
+# \ - signals a special sequence "\d"
+# . - any character "he..o"
+# ^ - starts with "^hello"
+# $ - ends with "planet$"
+# * - zero or more occurences "he.*o"
+# + - one or more occurences "he.+o"
+# ? - zero or one occurences "he.?o"
+# {} - exactly the specified number of occurences "he.{2}o"
+# | - either or "falls|stays"
+# () - capture and group

@@ -1,0 +1,11 @@
+# \A - Returns a match if the specified characters are at the beginning of the string "\AThe"
+# \b - Returns a match where the specified characters are at the beginning or at the end of the word r"\bain" r"ain\b"
+# \B - Returns a match where the specified characters are present, but not at the beginning or at the end of a word r"\Bain" r"aib\B"
+# \d - Returns a match where the string contains digits "\d"
+# \D - Returns a match where the string does not contain digit "\D"
+# \s - Returns a match where the string contains a white space character "\s"
+# \S - Returns a match where the string does not contain a white space character "\S"
+# \w - Returns a match where the string contains any word character "\w"
+# \W - Returns a match where the string does not contain any word characters "\W"
+# \Z - Returns a match if the specified characters are at the end of the string "Spain\Z"
+
